@@ -2,6 +2,7 @@ libfabia
 ========
 
 (c) 2013 Thomas Unterthiner
+
 Last Change: 2013-11-07 (Version 0.03)
 
 This library implements the FABIA biclustering algorithm from
